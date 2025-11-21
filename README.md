@@ -1,10 +1,4 @@
 # GDV-M2
-
-Houd je aan de verplichte basisfeatures (ballen afschieten, bumps raken, score).
-Kies daarna je eigen thema, stijl en naam.
-Vul dit format in je eigen README aan met jouw ideeën.
-Noteer wekelijks wat je hebt gemaakt, hoe je dat hebt gedaan en wat je hebt geleerd.
-Conceptschets
 Titel: Fruity Peggle!
 
 Genre: Physics-based arcade puzzelgame
