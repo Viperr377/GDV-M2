@@ -1,26 +1,46 @@
 # GDV-M2
-Titel: Clash Royale Peggle
+Titel: Clash Royale Spirit Bounce
+Genre:
 
-Genre: Physics-based arcade puzzelgame
+Physics-based arcade puzzlegame
 
 Beschrijving
-De speler schiet een bal van boven in het speelveld.
-De bal stuitert tegen stukken en sapflesjes.
-Bij elke aanraking spat er sap op het scherm en loopt de score op.
-Wanneer de bal in een blender onderaan valt, wordt de beurt afgesloten.
-Hoe meer fruit je raakt, hoe voller de sapmeter wordt.
+
+De speler schiet een magische spirit-orb van boven het speelveld. De orb stuitert tegen verschillende Clash Royale-geesten: fire spirit, ice spirit, heal spirit en electro spirit.
+Bij elke aanraking ontlaadt de spirit zijn speciale effect (vonken, ijs, vuur of helende pulsen), waardoor de score stijgt en het energiemeter wordt gevuld.
+Wanneer de orb in de ketel onderaan valt, eindigt de beurt. Hoe meer spirits je raakt, hoe voller de energiemeter wordt.
 
 Gameplaykern
-Bal: een stuk fruit (citroen, kiwi, aardbei)
-Targets / bumps: ander fruit met colliders
-Score: punten + sapmeter stijgt
-Doel: maak een volle smoothie voordat je beurten op zijn
-Stijl en sfeer
-Kleurrijk, sappig, cartoony en met geluiden van fruit dat spat of plopt.
+
+Bal:
+Een geconcentreerde spirit-orb (neutrale magische bal)
+
+Targets / bumps:
+Clash Royale geesten:
+
+fire spirit — kleine explosie en vuursprankels
+
+ice spirit — ijsbarst-effect met slow-sparkles
+
+heal spirit — groene helende golfjes
+
+electro spirit — kleine kettingbliksemflits
+
+Score:
+Punten + de energiemeter stijgt afhankelijk van welk type spirit je raakt.
+
+Doel:
+Vul de Spirit-Meter volledig voordat je beurten op zijn.
 
 Structuur van het level
-Bovenaan: schietplek (de speler richt en vuurt)
-Midden: veld vol fruit (cirkelvormige of onregelmatige patronen)
-Onderaan: opvangbak of blender (scoreberekening)
+
+Bovenaan:
+Schietplek waar de speler richt en vuurt.
+
+Midden:
+Veld vol rondzwevende of vaste spirits in verschillende patronen (cirkels, spiralen, of CR-arena-vormen).
+
+Onderaan:
+Een ketel of “Magic Collector” waar de orb in valt — hier wordt de beurt afgesloten en score verwerkt.
 
 <img width="862" height="923" alt="image" src="https://github.com/user-attachments/assets/b8b7e50d-8a8c-4a00-ac8e-f7c61951e8fb" />
