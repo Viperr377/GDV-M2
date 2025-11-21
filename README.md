@@ -1,7 +1,4 @@
 # GDV-M2
-Les 1.1: Voorbeeld Concept: Fruity Peggle
-Dit is mijn voorbeeldconcept voor het Physics Project.
-Gebruik dit als basis voor je eigen opzet:
 
 Houd je aan de verplichte basisfeatures (ballen afschieten, bumps raken, score).
 Kies daarna je eigen thema, stijl en naam.
