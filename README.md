@@ -22,3 +22,5 @@ Structuur van het level
 Bovenaan: schietplek (de speler richt en vuurt)
 Midden: veld vol fruit (cirkelvormige of onregelmatige patronen)
 Onderaan: opvangbak of blender (scoreberekening)
+
+<img width="862" height="923" alt="image" src="https://github.com/user-attachments/assets/b8b7e50d-8a8c-4a00-ac8e-f7c61951e8fb" />
