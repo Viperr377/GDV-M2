@@ -1,11 +1,11 @@
 # GDV-M2
-Titel: Fruity Peggle!
+Titel: Clash Royale Peggle
 
 Genre: Physics-based arcade puzzelgame
 
 Beschrijving
-De speler schiet een bal (bijv. een citroen) van boven in het speelveld.
-De bal stuitert tegen fruitstukken (appels, druiven, sinaasappels) en sapflesjes.
+De speler schiet een bal van boven in het speelveld.
+De bal stuitert tegen stukken en sapflesjes.
 Bij elke aanraking spat er sap op het scherm en loopt de score op.
 Wanneer de bal in een blender onderaan valt, wordt de beurt afgesloten.
 Hoe meer fruit je raakt, hoe voller de sapmeter wordt.
