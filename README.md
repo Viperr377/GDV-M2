@@ -8,3 +8,5 @@ Bij elke aanraking ontlaadt de spirit zijn speciale effect (vonken, ijs, vuur of
 Wanneer de orb in de ketel onderaan valt, eindigt de beurt. Hoe meer spirits je raakt, hoe voller de energiemeter wordt.
 
 <img width="862" height="923" alt="image" src="https://github.com/user-attachments/assets/b8b7e50d-8a8c-4a00-ac8e-f7c61951e8fb" />
+
+![2025-12-02 12-35-43 - Trim (1)](https://github.com/user-attachments/assets/d498bb6d-017b-4666-a1c6-5ea7c721656a)
