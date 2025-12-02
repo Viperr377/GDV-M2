@@ -1,0 +1,16 @@
+﻿# Unity generated folders
+Library/
+Temp/
+Obj/
+Logs/
+UserSettings/
+
+# VS/IDE files
+.vs/
+*.csproj
+*.sln
+.vsconfig
+
+# Embedded Git repository (если не нужен)
+GDV-M2/
+UIElementsSchema/
