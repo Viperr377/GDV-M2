@@ -4,13 +4,13 @@ public class Aim : MonoBehaviour
 {
     void Update()
     {
-        Vector3 mouse = Input.mousePosition;
-        mouse.z = 0f; 
+        Vector3 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+        mousePos.z = 0;
 
-        Vector3 worldMouse = Camera.main.ScreenToWorldPoint(mouse);
-        Vector3 dir = worldMouse - transform.position;
+        Vector3 direction = mousePos - transform.position;
+        float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
 
-        float angle = Mathf.Atan2(dir.y, dir.x) * Mathf.Rad2Deg;
         transform.rotation = Quaternion.Euler(0, 0, angle);
     }
 }
+
