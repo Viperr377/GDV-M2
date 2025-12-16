@@ -46,3 +46,10 @@ code om het pistool in de richting van de cursor te laten draaien
 
 ![Анимация](https://github.com/user-attachments/assets/80805dc8-1361-4a6e-883f-b20dd0441032)
 
+
+
+2.3
+
+![2 3](https://github.com/user-attachments/assets/21025323-ee53-4a22-91e3-1edf79e82fbb)
+
+
