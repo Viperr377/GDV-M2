@@ -36,3 +36,13 @@ public class Aim : MonoBehaviour
 }'
 ```
 code om het pistool in de richting van de cursor te laten draaien
+
+
+
+
+
+2.2 
+
+
+![Анимация](https://github.com/user-attachments/assets/80805dc8-1361-4a6e-883f-b20dd0441032)
+
