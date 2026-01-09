@@ -11,7 +11,7 @@ Wanneer de orb in de ketel onderaan valt, eindigt de beurt. Hoe meer spirits je 
 
 
 
-2.1 Collisions & Forces
+2.1 **Collisions & Forces**
 
 
 
