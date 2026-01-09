@@ -126,7 +126,7 @@ public class Shooter : MonoBehaviour
 ```
 
 
-3.2 - 3.3 Combo systeem en het verdwijnen van de Peggle
+3.2 - 3.3 ***Combo systeem en het verdwijnen van de Peggle***
 
 ![2 3](https://github.com/user-attachments/assets/21025323-ee53-4a22-91e3-1edf79e82fbb)
 
