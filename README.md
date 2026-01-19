@@ -196,5 +196,25 @@ public class Peggle : MonoBehaviour
     }
 }
 ```
+4.1 en 4.2
+ScoreBoard
+
+![2 3](https://github.com/user-attachments/assets/744b1c75-f6e1-420d-9017-5636bd1f6901)
+
+```
+using UnityEngine;
+using TMPro;
+
+public class UIScoreBoard : MonoBehaviour
+{
+    public TMP_Text scoreField;
+
+    void Update()
+    {
+        scoreField.text = "SCORE: " + ScoreManager.Instance.score;
+    }
+}
+```
+
 
 
