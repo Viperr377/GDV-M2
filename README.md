@@ -216,5 +216,10 @@ public class UIScoreBoard : MonoBehaviour
 }
 ```
 
+Peggle game
+
+![Peggle game](https://github.com/user-attachments/assets/0d6bf767-845a-46a1-a5f7-dfed05484a42)
+
+
 
 
