@@ -219,7 +219,16 @@ public class UIScoreBoard : MonoBehaviour
 Peggle game
 
 ![Peggle game](https://github.com/user-attachments/assets/0d6bf767-845a-46a1-a5f7-dfed05484a42)
+Over de game
 
+Deze game is een Peggle-achtige arcade game, geïnspireerd door de visuele stijl en personages van Clash Royale.
+De speler schiet projectielen het speelveld in, die via physics-based botsingen stuiteren tegen verschillende vijanden en objecten. Door slim te mikken en gebruik te maken van de omgeving kan de speler zoveel mogelijk punten scoren.
+
+De game combineert:
+
+Peggle-achtige gameplay (stuiteren, mikken, timing)
+
+Clash Royale-achtige artstyle en karakters
 
 
 
